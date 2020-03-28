@@ -14,6 +14,8 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 00:** "Testing the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseML/master?filepath=lab_00%2Fml_lab_00.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_00/ml_lab_00.ipynb))
 
+**Lab 01:** "Introduction to the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseML/master?filepath=lab_01%2Fml_lab_01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_01/ml_colab_01.ipynb))
+
 ## Running the Coding Challenge "Kick-Start" Notebook
 
 **Coding Challenge:** "Data Download Notebook" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseML/master?filepath=challenge%2Faiml_challenge_kickstart.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/challenge/aiml_challenge_kickstart.ipynb))
