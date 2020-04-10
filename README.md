@@ -4,7 +4,7 @@ A series of interactive lab notebooks we prepared for the **Machine Learning** c
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-![Course Banner](https://github.com/GitiHubi/courseAIML/blob/master/banner.png)
+![Course Banner](https://github.com/GitiHubi/courseML/blob/master/banner.png)
 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/GitiHubi/courseAIML)
 
