@@ -6,7 +6,7 @@ A series of interactive lab notebooks we prepared for the **Machine Learning** c
 
 ![Course Banner](https://github.com/GitiHubi/courseML/blob/master/banner.png)
 
-Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/GitiHubi/courseAIML)
+Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/GitiHubi/courseML)
 
 This is currently work in progress so expect minor errors and some rough edges ;)
 
