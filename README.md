@@ -20,7 +20,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 03:** "Support Vector Classification and Feature Engineering" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseML/master?filepath=lab_03%2Fml_lab_03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_03/ml_colab_03.ipynb))
 
-**Lab 03:** "Artificial Neural Network Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseML/master?filepath=lab_04%2Fml_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_04/ml_colab_04.ipynb))
+**Lab 04:** "Artificial Neural Network Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseML/master?filepath=lab_04%2Fml_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_04/ml_colab_04.ipynb))
 
 ## Running the Coding Challenge "Kick-Start" Notebook
 
