@@ -20,7 +20,9 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 03:** "Support Vector Classification and Feature Engineering" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseML/master?filepath=lab_03%2Fml_lab_03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_03/ml_colab_03.ipynb))
 
-**Lab 04:** "Artificial Neural Network Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseML/master?filepath=lab_04%2Fml_lab_04.ipynb), CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_04/ml_colab_04.ipynb), GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_04/ml_colab_04_gpu.ipynb))
+**Lab 04:** "Artificial Neural Network (ANN) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseML/master?filepath=lab_04%2Fml_lab_04.ipynb), CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_04/ml_colab_04.ipynb), GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_04/ml_colab_04_gpu.ipynb))
+
+**Lab 05:** "Convolutional Neural Network (CNN) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseML/master?filepath=lab_05%2Fml_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseML/blob/master/lab_05/ml_colab_5.ipynb))
 
 ## Running the Coding Challenge "Kick-Start" Notebook
 
